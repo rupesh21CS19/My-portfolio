@@ -1,0 +1,4 @@
+smooth scrolling : using loco motive js, locolo scroll  css ,logomove js cdn;
+gsap :attatch gsap cdn ,
+scrolltriger
+ 
